@@ -88,14 +88,14 @@ form > .campo {
 }
 
 .campo > input {
-    height: 95%;
+    height: 100%;
     width: calc(100% - 45px);
     border: none;
     outline: none;
     border-radius: 7px;
     padding: 5px;
     background-color: #67ddd9;
-    transform: translateY(-13.3px);
+    transform: translateY(-13px);
 }
 
 .campo > input:focus {
