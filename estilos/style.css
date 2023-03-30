@@ -41,6 +41,8 @@ main {
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.454);
+    transition: width .2s, height .2s;
+    transition-timing-function: ease;
 }
 
 #login > #imagem {
